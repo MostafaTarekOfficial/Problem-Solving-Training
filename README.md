@@ -10,6 +10,9 @@
 | Loops | ⏳ | 0/26 |
 | Arrays | ⏳ | 0/26 |
 | Strings | ⏳ | 0/26 |
+| Functions | ⏳ | 0/26 |
+| Math - Geometry | ⏳ | 0/26 |
+| Recursion | ⏳ | 0/26 |
 
 ## 🛠️ Tech Stack
 - **Language:** C++ , Java

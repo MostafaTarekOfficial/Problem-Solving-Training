@@ -6,7 +6,7 @@
 ## 📊 Assiut University Training Sheet Progress
 | Subject | Status | Solved |
 | :--- | :---: | :---: |
-| Data Types | ⏳ | 1/26 |
+| Data Types | ⏳ | 2/26 |
 | Loops | ⏳ | 0/26 |
 | Arrays | ⏳ | 0/26 |
 | Strings | ⏳ | 0/26 |

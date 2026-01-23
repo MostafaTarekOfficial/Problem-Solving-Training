@@ -1,0 +1,13 @@
+/* ************************************************************
+ * 🚀 Solved by Eng/ Mostafa Tarek 
+ * 📁 Part of: Problem Solving Journey (Assiut Sheet)
+ * ************************************************************ */
+#include <iostream>
+using namespace std;
+int main()
+ {
+  	long long n;
+	cin>>n;
+	cout<<((n*(n+1))/2)<<endl;
+  return 0;
+ }

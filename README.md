@@ -2,7 +2,7 @@
 
 > **"Code every day, keep the bugs away."**
 > This repository is a collection of my solutions for various competitive programming sheets and platforms, documenting my progress and growth.
-
+**Sheet Link :** https://codeforces.com/group/MWSDmqGsZm/contests
 ## 📊 Assiut University Training Sheet Progress
 | Subject | Status | Solved |
 | :--- | :---: | :---: |
